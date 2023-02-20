@@ -2,39 +2,39 @@
 
 1.	List the symbols for each of the below JavaScript operators.
     a.	Arithmetic Operators;
-        •	+
-        •	-
-        •	*
-        •	/ 
-        •	--
-    •	++
+            +,
+            -,
+            *,
+            / ,
+            --,
+            ++
     b.	Assignment Operators;
-        •	=
-        •	+=
-        •	-=
-        •	*=
-        •	/=
-        •	%=
+            =,
+            +=,
+            -=,
+            *=,
+            /=,
+            %=
     c.	Comparison Operators;
-        •	<
-        •	>
-        •	<=
-        •	>=
-        •	!=
-        •	!==
-        •	==
-        •	===
+            <,
+            >,
+            <=,
+            >=,
+            !=,
+            !==,
+        	==,
+        	===
     d.	Logical Operators;
-        •	&&
-        •	||
-        •	!
+            &&,
+            ||,
+        	!,
     e.	Bitwise Operators;
-        •	|
-        •	^
-        •	~
-        •	<<
-        •	>>
-        •	>>>
+        	|,
+        	^,
+        	~,
+        	<<,
+        	>>,
+        	>>>
 
 2.	For each JavaScript Operator, write 2 examples.
     a.	Arithmetic Operators;
